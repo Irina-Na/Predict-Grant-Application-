@@ -1,0 +1,2 @@
+# Data preprocessing and logistic regression for a binary classification problem
+The university has provided a dataset containing 249 features, including variables that represent the size of the grant, the general area of study and de-identified information on the investigators who are applying for the grant. Participants train their models on 8,707 grant applications made between 2004 and 2008. They then make predictions on a further 2,176 applications made in 2009 and the first half of 2010.
